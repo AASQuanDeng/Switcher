@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  Switcher.vcxproj -> F:\Switcher\Debug\Switcher.exe
+  Switcher.vcxproj -> F:\Switcher\Debug\Switcher.pdb (Partial PDB)
