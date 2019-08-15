@@ -1,0 +1,28 @@
+﻿生成启动时间为 2019/5/25 7:10:06。
+     1>项目“D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Updater\Updater.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Updater.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         G:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Updater.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Updater.cpp
+         Updater.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         G:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Debug\Updater.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Updater.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Debug\Updater.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Debug\Updater.lib" /MACHINE:X86 Debug\Updater.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Updater.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Updater.exe.embed.manifest" /manifest Debug\Updater.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Updater.vcxproj -> D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Debug\Updater.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Updater.unsuccessfulbuild”。
+         正在对“Debug\Updater.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\DJZ Projects\AAS&肖亚林Switcher\Switcher GUI\Updater\Updater\Updater.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.97

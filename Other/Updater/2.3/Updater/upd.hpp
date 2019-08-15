@@ -1,0 +1,14 @@
+#pragma once
+#include "stdafx.h"
+#include <iostream>
+#include <fstream>
+#include <tchar.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <vector>
+#include <string>
+#include <io.h>
+#include <UrlMon.h>
+#include <wininet.h>
+#include <Windows.h>
