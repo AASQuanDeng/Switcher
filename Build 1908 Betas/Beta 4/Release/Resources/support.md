@@ -3,7 +3,7 @@
 ## 一、帮助与问题
 ### 1. 如果你无法运行 Switcher：
 **请安装Microsoft .Net  Framework 4.6 和 Visual C++ Runtime**  
-*注：Switcher 只能在 Windows 7 或以上的并装有上面运行库的Windows上运行*
+*注：Switcher 只能在 Windows 7 或以上的并装有上面运行库的 Windows 上运行*
 ### 2. 为什么我打不开AAS或肖亚林的故事？
 1. **64位系统：检查 C:\Program Files(x86)\Switcher\Resources\AAS.exe 和 C:\Program Files(x86)\Switcher\Resources\xyl.exe 是否存在**  
 **32位系统：检查 C:\Program Files\Switcher\Resources\AAS.exe 和 C:\Program Files\Switcher\Resources\xyl.exe 是否存在**  

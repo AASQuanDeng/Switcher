@@ -117,7 +117,63 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;Version_info_head.Name" xml:space="preserve">
+    <value>Version_info_head</value>
+  </data>
+  <data name="&gt;&gt;xylverlabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="addonverlabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 20</value>
+  </data>
+  <data name="&gt;&gt;VersionSWI.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="OpenSource.Text" xml:space="preserve">
+    <value>Switcher Open Source Licenses
+Switcher Blogs</value>
+  </data>
+  <data name="AboutHead.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 46</value>
+  </data>
+  <data name="Apache_LIC.Text" xml:space="preserve">
+    <value>This software obeys Apache License 2.0</value>
+  </data>
+  <data name="VersionSWI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 40</value>
+  </data>
+  <data name="Show_CREDITS.Text" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="About_close.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Username.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="xylverlabel.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;About_close.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Show_CREDITS.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="About_close.Location" type="System.Drawing.Point, System.Drawing">
+    <value>435, 292</value>
+  </data>
+  <data name="&gt;&gt;Show_CREDITS.Name" xml:space="preserve">
+    <value>Show_CREDITS</value>
+  </data>
+  <data name="Apache_LIC.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="OpenSource.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt, style=Underline</value>
+  </data>
   <data name="SWIICO.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
@@ -2526,427 +2582,59 @@
         USPuGSMnW3DNMYcH85jRYvRo7t6Zo2/RHzUrD+ceK7eHN336/wNM9gUDsZX54AAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="SWIICO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
-  </data>
-  <data name="SWIICO.Size" type="System.Drawing.Size, System.Drawing">
-    <value>125, 125</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="SWIICO.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="SWIICO.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;SWIICO.Name" xml:space="preserve">
-    <value>SWIICO</value>
-  </data>
-  <data name="&gt;&gt;SWIICO.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SWIICO.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;SWIICO.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="AboutHead.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="AboutHead.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 26.25pt, style=Bold</value>
-  </data>
-  <data name="AboutHead.Location" type="System.Drawing.Point, System.Drawing">
-    <value>169, 35</value>
-  </data>
-  <data name="AboutHead.Size" type="System.Drawing.Size, System.Drawing">
-    <value>244, 46</value>
-  </data>
-  <data name="AboutHead.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="AboutHead.Text" xml:space="preserve">
-    <value>Switcher LTS</value>
-  </data>
-  <data name="&gt;&gt;AboutHead.Name" xml:space="preserve">
-    <value>AboutHead</value>
-  </data>
-  <data name="&gt;&gt;AboutHead.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;AboutHead.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;AboutHead.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="VersionSWI.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="VersionSWI.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 10pt</value>
-  </data>
-  <data name="VersionSWI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>174, 81</value>
-  </data>
-  <data name="VersionSWI.Size" type="System.Drawing.Size, System.Drawing">
-    <value>182, 40</value>
-  </data>
-  <data name="VersionSWI.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="VersionSWI.Text" xml:space="preserve">
-    <value>Build 1908 Beta 3
-Insider Version 190800.0.3</value>
-  </data>
-  <data name="&gt;&gt;VersionSWI.Name" xml:space="preserve">
-    <value>VersionSWI</value>
-  </data>
-  <data name="&gt;&gt;VersionSWI.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;VersionSWI.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;VersionSWI.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="COPYR.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="COPYR.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="COPYR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>9, 275</value>
-  </data>
-  <data name="COPYR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 17</value>
-  </data>
-  <data name="COPYR.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;COPYR.Name" xml:space="preserve">
-    <value>COPYR</value>
-  </data>
-  <data name="&gt;&gt;COPYR.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;COPYR.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;COPYR.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="OpenSource.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="OpenSource.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt, style=Underline</value>
-  </data>
-  <data name="OpenSource.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 149</value>
-  </data>
-  <data name="OpenSource.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 34</value>
-  </data>
-  <data name="OpenSource.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="OpenSource.Text" xml:space="preserve">
-    <value>Switcher Open Source Licenses
-Switcher Blogs</value>
-  </data>
-  <data name="&gt;&gt;OpenSource.Name" xml:space="preserve">
-    <value>OpenSource</value>
-  </data>
-  <data name="&gt;&gt;OpenSource.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;OpenSource.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;OpenSource.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="Apache_LIC.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Apache_LIC.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="Apache_LIC.Location" type="System.Drawing.Point, System.Drawing">
-    <value>279, 272</value>
-  </data>
-  <data name="Apache_LIC.Size" type="System.Drawing.Size, System.Drawing">
-    <value>238, 17</value>
-  </data>
-  <data name="Apache_LIC.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="Apache_LIC.Text" xml:space="preserve">
-    <value>This software obeys Apache License 2.0</value>
-  </data>
-  <data name="&gt;&gt;Apache_LIC.Name" xml:space="preserve">
-    <value>Apache_LIC</value>
-  </data>
-  <data name="&gt;&gt;Apache_LIC.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Apache_LIC.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Apache_LIC.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="Show_CREDITS.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="Show_CREDITS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>354, 292</value>
-  </data>
-  <data name="Show_CREDITS.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="Show_CREDITS.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="Show_CREDITS.Text" xml:space="preserve">
-    <value>Credits</value>
-  </data>
-  <data name="&gt;&gt;Show_CREDITS.Name" xml:space="preserve">
-    <value>Show_CREDITS</value>
-  </data>
-  <data name="&gt;&gt;Show_CREDITS.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Show_CREDITS.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Show_CREDITS.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="According.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="According.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="According.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 190</value>
-  </data>
   <data name="According.Size" type="System.Drawing.Size, System.Drawing">
     <value>278, 34</value>
-  </data>
-  <data name="According.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="According.Text" xml:space="preserve">
-    <value>According to Switcher Licensing Rules
-We allow the following user(s) to use Switcher:</value>
-  </data>
-  <data name="&gt;&gt;According.Name" xml:space="preserve">
-    <value>According</value>
-  </data>
-  <data name="&gt;&gt;According.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;According.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;According.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="Username.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Username.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="Username.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 224</value>
-  </data>
-  <data name="Username.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 17</value>
-  </data>
-  <data name="Username.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="Username.Text" xml:space="preserve">
-    <value>UNKNOW</value>
-  </data>
-  <data name="&gt;&gt;Username.Name" xml:space="preserve">
-    <value>Username</value>
-  </data>
-  <data name="&gt;&gt;Username.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Username.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Username.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="About_close.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 9pt</value>
-  </data>
-  <data name="About_close.Location" type="System.Drawing.Point, System.Drawing">
-    <value>435, 292</value>
-  </data>
-  <data name="About_close.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="About_close.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="About_close.Text" xml:space="preserve">
-    <value>Close</value>
-  </data>
-  <data name="&gt;&gt;About_close.Name" xml:space="preserve">
-    <value>About_close</value>
-  </data>
-  <data name="&gt;&gt;About_close.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;About_close.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;About_close.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="Version_info_head.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Version_info_head.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 10.5pt, style=Bold</value>
-  </data>
-  <data name="Version_info_head.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 149</value>
-  </data>
-  <data name="Version_info_head.Size" type="System.Drawing.Size, System.Drawing">
-    <value>98, 19</value>
-  </data>
-  <data name="Version_info_head.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="Version_info_head.Text" xml:space="preserve">
-    <value>Version info:</value>
-  </data>
-  <data name="&gt;&gt;Version_info_head.Name" xml:space="preserve">
-    <value>Version_info_head</value>
-  </data>
-  <data name="&gt;&gt;Version_info_head.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Version_info_head.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Version_info_head.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="addonverlabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="addonverlabel.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 10.5pt</value>
-  </data>
-  <data name="addonverlabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 169</value>
-  </data>
-  <data name="addonverlabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>114, 20</value>
-  </data>
-  <data name="addonverlabel.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="addonverlabel.Text" xml:space="preserve">
-    <value>Add-on Update</value>
-  </data>
-  <data name="&gt;&gt;addonverlabel.Name" xml:space="preserve">
-    <value>addonverlabel</value>
-  </data>
-  <data name="&gt;&gt;addonverlabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;addonverlabel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;addonverlabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="aasverlabel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="aasverlabel.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 10.5pt</value>
-  </data>
-  <data name="aasverlabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 190</value>
-  </data>
-  <data name="aasverlabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 20</value>
   </data>
   <data name="aasverlabel.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
   </data>
-  <data name="aasverlabel.Text" xml:space="preserve">
-    <value>AAS</value>
-  </data>
-  <data name="&gt;&gt;aasverlabel.Name" xml:space="preserve">
-    <value>aasverlabel</value>
-  </data>
-  <data name="&gt;&gt;aasverlabel.Type" xml:space="preserve">
+  <data name="&gt;&gt;AboutHead.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;aasverlabel.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Username.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>About Switcher</value>
+  </data>
+  <data name="AboutHead.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 26.25pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;COPYR.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="OpenSource.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;VersionSWI.ZOrder" xml:space="preserve">
+    <value>11</value>
   </data>
   <data name="&gt;&gt;aasverlabel.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="xylverlabel.AutoSize" type="System.Boolean, mscorlib">
+  <data name="Username.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="xylverlabel.Font" type="System.Drawing.Font, System.Drawing">
-    <value>微软雅黑, 10.5pt</value>
+  <data name="&gt;&gt;About_close.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="xylverlabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 210</value>
+  <data name="addonverlabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
   </data>
-  <data name="xylverlabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>27, 20</value>
+  <data name="COPYR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 275</value>
   </data>
-  <data name="xylverlabel.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="xylverlabel.Text" xml:space="preserve">
-    <value>xyl</value>
-  </data>
-  <data name="&gt;&gt;xylverlabel.Name" xml:space="preserve">
-    <value>xylverlabel</value>
-  </data>
-  <data name="&gt;&gt;xylverlabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;addonverlabel.Name" xml:space="preserve">
+    <value>addonverlabel</value>
   </data>
   <data name="&gt;&gt;xylverlabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;xylverlabel.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="SWIICO.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>zh</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 12</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>522, 327</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -20976,13 +20664,325 @@ We allow the following user(s) to use Switcher:</value>
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
 </value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>About Switcher</value>
+  <data name="&gt;&gt;Apache_LIC.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="xylverlabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 210</value>
+  </data>
+  <data name="addonverlabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 169</value>
+  </data>
+  <data name="VersionSWI.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Apache_LIC.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="xylverlabel.Text" xml:space="preserve">
+    <value>xyl</value>
+  </data>
+  <data name="OpenSource.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 34</value>
+  </data>
+  <data name="Apache_LIC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>279, 272</value>
+  </data>
+  <data name="Version_info_head.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 19</value>
+  </data>
+  <data name="&gt;&gt;OpenSource.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>UNKNOW</value>
+  </data>
+  <data name="Username.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 17</value>
+  </data>
+  <data name="Username.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="&gt;&gt;aasverlabel.Name" xml:space="preserve">
+    <value>aasverlabel</value>
+  </data>
+  <data name="&gt;&gt;addonverlabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Username.Name" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="Show_CREDITS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>354, 292</value>
+  </data>
+  <data name="addonverlabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 10.5pt</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>FormAbout</value>
   </data>
+  <data name="&gt;&gt;Apache_LIC.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;Apache_LIC.Name" xml:space="preserve">
+    <value>Apache_LIC</value>
+  </data>
+  <data name="&gt;&gt;Version_info_head.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;About_close.Name" xml:space="preserve">
+    <value>About_close</value>
+  </data>
+  <data name="&gt;&gt;Username.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="About_close.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;Show_CREDITS.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Version_info_head.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="COPYR.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="addonverlabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;addonverlabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;addonverlabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;According.Name" xml:space="preserve">
+    <value>According</value>
+  </data>
+  <data name="COPYR.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="COPYR.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Username.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 224</value>
+  </data>
+  <data name="SWIICO.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 125</value>
+  </data>
+  <data name="VersionSWI.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 10pt</value>
+  </data>
+  <data name="According.Text" xml:space="preserve">
+    <value>According to Switcher Licensing Rules
+We allow the following user(s) to use Switcher:</value>
+  </data>
+  <data name="VersionSWI.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="aasverlabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 190</value>
+  </data>
+  <data name="AboutHead.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;COPYR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="According.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="Version_info_head.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;xylverlabel.Name" xml:space="preserve">
+    <value>xylverlabel</value>
+  </data>
+  <data name="aasverlabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 10.5pt</value>
+  </data>
+  <data name="&gt;&gt;VersionSWI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="VersionSWI.Text" xml:space="preserve">
+    <value>Build 1908 Beta 3
+Insider Version 190800.0.3</value>
+  </data>
+  <data name="According.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="According.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Show_CREDITS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;xylverlabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;AboutHead.Name" xml:space="preserve">
+    <value>AboutHead</value>
+  </data>
+  <data name="&gt;&gt;aasverlabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="VersionSWI.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 81</value>
+  </data>
+  <data name="OpenSource.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;SWIICO.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="aasverlabel.Text" xml:space="preserve">
+    <value>AAS</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="SWIICO.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="According.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 190</value>
+  </data>
+  <data name="Apache_LIC.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;AboutHead.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="About_close.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="&gt;&gt;Apache_LIC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AboutHead.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;VersionSWI.Name" xml:space="preserve">
+    <value>VersionSWI</value>
+  </data>
+  <data name="&gt;&gt;Username.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Show_CREDITS.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 9pt</value>
+  </data>
+  <data name="&gt;&gt;Show_CREDITS.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="AboutHead.Text" xml:space="preserve">
+    <value>Switcher LTS</value>
+  </data>
+  <data name="xylverlabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 10.5pt</value>
+  </data>
+  <data name="OpenSource.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 149</value>
+  </data>
+  <data name="&gt;&gt;OpenSource.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="aasverlabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 20</value>
+  </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;OpenSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="xylverlabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;OpenSource.Name" xml:space="preserve">
+    <value>OpenSource</value>
+  </data>
+  <data name="&gt;&gt;According.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Version_info_head.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;COPYR.Name" xml:space="preserve">
+    <value>COPYR</value>
+  </data>
+  <data name="SWIICO.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="addonverlabel.Text" xml:space="preserve">
+    <value>Add-on Update</value>
+  </data>
+  <data name="AboutHead.Location" type="System.Drawing.Point, System.Drawing">
+    <value>169, 35</value>
+  </data>
+  <data name="&gt;&gt;According.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SWIICO.Name" xml:space="preserve">
+    <value>SWIICO</value>
+  </data>
+  <data name="&gt;&gt;COPYR.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;Version_info_head.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="aasverlabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Version_info_head.Text" xml:space="preserve">
+    <value>Version info:</value>
+  </data>
+  <data name="&gt;&gt;About_close.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>522, 327</value>
+  </data>
+  <data name="&gt;&gt;AboutHead.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="Version_info_head.Font" type="System.Drawing.Font, System.Drawing">
+    <value>微软雅黑, 10.5pt, style=Bold</value>
+  </data>
+  <data name="About_close.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="Apache_LIC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 17</value>
+  </data>
+  <data name="&gt;&gt;SWIICO.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;aasverlabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Show_CREDITS.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;SWIICO.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="COPYR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
+  </data>
+  <data name="&gt;&gt;According.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Version_info_head.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 149</value>
+  </data>
+  <data name="xylverlabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 20</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>zh</value>
+  </metadata>
 </root>

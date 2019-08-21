@@ -1,4 +1,4 @@
-﻿  CheckLang.cpp
+﻿  FormAbout.cpp
   MyForm.cpp
 F:\DJZ Project\Switcher\Switcher\MyForm.h(44,2): warning C4996:  '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   正在生成代码...
