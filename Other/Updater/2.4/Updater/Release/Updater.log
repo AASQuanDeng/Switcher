@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Updater.cpp
+  Previous IPDB not found, fall back to full compilation.
+  正在生成代码
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Updater.vcxproj -> F:\DJZ Project\Switcher\Release\Updater.exe
