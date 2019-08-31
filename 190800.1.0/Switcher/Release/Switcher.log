@@ -1,0 +1,16 @@
+﻿  CheckLang.cpp
+  Credits.cpp
+  FormAbout.cpp
+  MyForm.cpp
+F:\DJZ Project\Switcher\Switcher\MyForm.h(44,2): warning C4996:  '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message :  参见“_vsnprintf”的声明
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : F:\DJZ Project\Switcher\Switcher\MyForm.h(40) : warning C4793: “Switcher::MessageBoxPrintf”: 编译为本机的函数:
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : 	/clr 下不支持 varargs
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : F:\DJZ Project\Switcher\Switcher\MyForm.h(43) : warning C4793: “Switcher::MessageBoxPrintf”: 编译为本机的函数:
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : 	托管代码中发现一个不受支持的内部函数
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : F:\DJZ Project\Switcher\Switcher\MyForm.h(45) : warning C4793: “Switcher::MessageBoxPrintf”: 编译为本机的函数:
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : 	托管代码中发现一个不受支持的内部函数
+F:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1400): message : F:\DJZ Project\Switcher\Switcher\MyForm.h(56) : warning C4715: “Switcher::MessageBoxPrintf”: 不是所有的控件路径都返回值
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Switcher.vcxproj -> F:\DJZ Project\Switcher\Release\Switcher.exe
