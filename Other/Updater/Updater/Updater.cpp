@@ -366,14 +366,14 @@ int maingit()
 	{
 		cout << "Switcher 更新程序（从 Github 下载）" << endl;
 		cout << "准备检查更新，请确保网络连接" << endl;
-		cout << "Updater 2.4 Github, Switcher LTS" << endl;
+		cout << "Updater 2.5 Github, Switcher LTS" << endl;
 		cout << "1.继续 2.取消 3.转跳到下载界面 4.声明" << endl;
 	}
 	else
 	{
 		cout << "Switcher Online Updater (Download From Github)" << endl;
 		cout << "Ready to check for update, please stay online." << endl;
-		cout << "Updater 2.4 Github, Switcher LTS" << endl;
+		cout << "Updater 2.5 Github, Switcher LTS" << endl;
 		cout << "1.continue 2.cancel 3.jump to download page 4.declaration" << endl;
 	}
 start:	op=_getch()-48;
@@ -901,14 +901,14 @@ int maingitee()
 	{
 		cout << "Switcher 更新程序（从 Gitee 下载）" << endl;
 		cout << "准备检查更新，请确保网络连接" << endl;
-		cout << "Updater 2.4 Gitee, Switcher LTS" << endl;
+		cout << "Updater 2.5 Gitee, Switcher LTS" << endl;
 		cout << "1.继续 2.取消 3.转跳到下载界面 4.声明" << endl;
 	}
 	else
 	{
 		cout << "Switcher Online Updater (Download From Gitee)" << endl;
 		cout << "Ready to check for update, please stay online." << endl;
-		cout << "Updater 2.4 Gitee, Switcher LTS" << endl;
+		cout << "Updater 2.5 Gitee, Switcher LTS" << endl;
 		cout << "1.continue 2.cancel 3.jump to download page 4.declaration" << endl;
 	}
 start:	op = _getch() - 48;
