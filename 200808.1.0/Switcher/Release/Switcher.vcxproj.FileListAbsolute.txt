@@ -1,0 +1,12 @@
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.vcxprojAssemblyReference.cache
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.CheckLang.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.Credits.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.FormAbout.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.MyForm.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.Credits.en.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.Credits.zh.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.FormAbout.en.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.FormAbout.zh.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.MyForm.en.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.MyForm.zh.resources
+C:\Users\戴嘉震\Documents\190800.1.0\Switcher\Release\Switcher.vcxproj.GenerateResource.cache
