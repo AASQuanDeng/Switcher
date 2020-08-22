@@ -1,0 +1,10 @@
+D:\Universal-Activation-Tool\Universal-Activation-Tool\bin\Debug\Universal-Activation-Tool.exe.config
+D:\Universal-Activation-Tool\Universal-Activation-Tool\bin\Debug\Universal-Activation-Tool.exe
+D:\Universal-Activation-Tool\Universal-Activation-Tool\bin\Debug\Universal-Activation-Tool.pdb
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal-Activation-Tool.csprojAssemblyReference.cache
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal_Activation_Tool.Form1.resources
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal_Activation_Tool.Properties.Resources.resources
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal-Activation-Tool.csproj.GenerateResource.cache
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal-Activation-Tool.csproj.CoreCompileInputs.cache
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal-Activation-Tool.exe
+D:\Universal-Activation-Tool\Universal-Activation-Tool\obj\Debug\Universal-Activation-Tool.pdb
